@@ -193,7 +193,7 @@
     },
     "dependencies": {
         "fs-extra": "7.0.1",
-        "lodash": "4.17.11",
+        "lodash": "4.17.21",
         "vscode-languageclient": "4.1.3"
     }
 }
